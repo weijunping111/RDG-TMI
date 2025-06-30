@@ -11,7 +11,7 @@ Ke Chen, Huan Han, Junping Wei and Yimin Zhang. A novel few-shot learning framew
 __Framework__
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e6998821-c586-4e62-b0cb-54e0cfc4abba" width="500" />
+  <img src="https://github.com/user-attachments/assets/e6998821-c586-4e62-b0cb-54e0cfc4abba" width="700" />
 </div>
 
 __Sipervised RDG-Net__
