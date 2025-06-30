@@ -1,4 +1,4 @@
-# RDG_TMI
+# RDG-TMI
 Python==3.10
 
 PyTorch==2.1.2
