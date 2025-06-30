@@ -14,7 +14,7 @@ __Framework__
   <img src="https://github.com/user-attachments/assets/e6998821-c586-4e62-b0cb-54e0cfc4abba" width="500" />
 </div>
 
-__Sipervised RDG_Net__
+__Sipervised RDG-Net__
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/86693155-a8d8-4d86-bcba-4034eb88da81" width="500" />
