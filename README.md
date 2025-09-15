@@ -5,9 +5,9 @@ PyTorch==2.1.2
 
 CUDA==11.8
 
-Ke Chen, Huan Han, Junping Wei and Yimin Zhang. A novel few-shot learning framework for supervised diffeomorphic image registration network. IEEE Transactions on Medical Imaging.
+Cite our article if any of the code or data are used.
 
-
+K. Chen, H. Han, J. Wei and Y. Zhang, "A novel few-shot learning framework for supervised diffeomorphic image registration network," in IEEE Transactions on Medical Imaging, doi: 10.1109/TMI.2025.3585199. 
 __Framework__
 
 <div align="center">
